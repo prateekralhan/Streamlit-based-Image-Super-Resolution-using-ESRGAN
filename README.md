@@ -50,3 +50,19 @@ This will launch the dockerized app. Navigate to ***http://localhost:8501/*** in
 ```
 docker ps
 ```
+
+
+## References:
+```
+https://github.com/xinntao/ESRGAN
+```
+
+```
+@InProceedings{wang2018esrgan,
+    author = {Wang, Xintao and Yu, Ke and Wu, Shixiang and Gu, Jinjin and Liu, Yihao and Dong, Chao and Qiao, Yu and Loy, Chen Change},
+    title = {ESRGAN: Enhanced super-resolution generative adversarial networks},
+    booktitle = {The European Conference on Computer Vision Workshops (ECCVW)},
+    month = {September},
+    year = {2018}
+}
+```
