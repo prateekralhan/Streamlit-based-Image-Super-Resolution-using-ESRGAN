@@ -1,1 +1,1 @@
-# Streamlit based Image Super Resolution using Real-ESRGAN 
+# Streamlit based Image Super Resolution using ESRGAN 
