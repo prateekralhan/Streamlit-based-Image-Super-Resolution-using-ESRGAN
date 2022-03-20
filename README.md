@@ -40,8 +40,7 @@ streamlit run app.py --server.maxUploadSize=1028
 ### Images
 | **Original Image**  | **Output Image**  |
 |---------------------|-----------------------|
-| ![pic1](uploads/1.jpg)  | ![pic1](downloads/segmented_1.jpg)  |
-| ![pic2](uploads/2.png)  | ![pic2](downloads/segmented_2.png)  |
+| <img src="uploads/baboon.png"/>  | <img src="downloads/output_baboon.png" width="25%" />  |
 | ![pic3](uploads/3.bmp)  | ![pic3](downloads/segmented_3.bmp)  |
 | ![pic4](uploads/4.jpeg) | ![pic4](downloads/segmented_4.jpeg)  |
 
