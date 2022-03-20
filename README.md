@@ -33,6 +33,17 @@ Navigate to http://localhost:8501 in your web-browser.
 streamlit run app.py --server.maxUploadSize=1028
 ```
 
+------------
+## Results 
+------------
+
+### Images
+| **Original Image**  | **Output Image**  |
+|---------------------|-----------------------|
+| ![pic1](uploads/1.jpg)  | ![pic1](downloads/segmented_1.jpg)  |
+| ![pic2](uploads/2.png)  | ![pic2](downloads/segmented_2.png)  |
+| ![pic3](uploads/3.bmp)  | ![pic3](downloads/segmented_3.bmp)  |
+| ![pic4](uploads/4.jpeg) | ![pic4](downloads/segmented_4.jpeg)  |
 
 ### Running the Dockerized App
 1. Ensure you have Docker Installed and Setup in your OS (Windows/Mac/Linux). For detailed Instructions, please refer [this.](https://docs.docker.com/engine/install/)
