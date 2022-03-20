@@ -1,6 +1,8 @@
 # Streamlit based ISR using ESRGAN [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
 A simple streamlit based webapp demonstrating Image Super Resolution using [ESRGAN.](https://github.com/xinntao/ESRGAN)
 
+![demo](https://user-images.githubusercontent.com/29462447/159161712-4dc47801-4388-41cb-8e4c-884aa55e078a.gif)
+
 ## Installation:
 * Simply run the command ***pip install -r requirements.txt*** to install the dependencies.
 
